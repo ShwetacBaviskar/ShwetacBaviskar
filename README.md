@@ -1,7 +1,4 @@
-<img src="https://raw.git<img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_up.svg" 
-     alt="Top Banner" 
-     style="position: fixed; top: 0; width: 100%;">
-
+     
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+Welcome+to+my+GitHub+space!+🚀;Learning+%7C+Building+%7C+Exploring+Tech+🛠️;">
 </p>
