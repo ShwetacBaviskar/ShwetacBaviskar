@@ -7,9 +7,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Student of **Computer Engineering**
-- 🐍 Passionate about **Python**, **Cybersecurity**, and exploring how systems work under the hood
-- 💻 Strong interest in **digital forensics** and **ethical hacking**
+- 🎓 Completed**Masters of Computer Science**
+- 🐍 Passionate about **Python** and exploring how systems work under the hood
 - 🌱 Currently learning **backend development**, **SQL**, and **Linux fundamentals**
 - 📬 Always happy to collaborate or chat about tech: [Let's connect on LinkedIn](https://www.linkedin.com)
 
