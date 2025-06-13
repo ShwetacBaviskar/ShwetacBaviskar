@@ -13,10 +13,10 @@
 - 🎓 Completed**Masters of Computer Science**
 - 🐍 Passionate about **Python** and exploring how systems work under the hood
 - 🌱 Currently learning **backend development**, **SQL**, and **Linux fundamentals**
-- 📬 Always happy to collaborate or chat about tech: [Let's connect on LinkedIn](https://www.linkedin.com)
+- 📬 Always happy to collaborate or chat about tech: [Let's connect on LinkedIn]((https://www.linkedin.com/in/shweta-baviskar-120128295/))
 
 ---
-
+]
 ### 🧰 Tools & Technologies
 
 Here’s a snapshot of what I work with:
