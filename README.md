@@ -61,17 +61,3 @@ Here’s a snapshot of what I work with:
 ---
 
 <p align="center">🚀 Thanks for visiting! Let's build something great together.</p>
-
-
-
-
-
-### 💻 Tech Stack
-
-A few tools and technologies I'm familiar with:
-
-```plaintext
-Languages     : Python, Java, C, JavaScript
-Database      : MySQL, SQLite
-Web           : HTML, CSS, Git, GitHub
-Tools/OS      : Linux, VS Code, Kali Linux
