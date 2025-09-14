@@ -19,6 +19,7 @@
 - 📬 Open to collaboration and discussions about tech: [Connect on LinkedIn](https://www.linkedin.com/in/shweta-baviskar-120128295/)  
 
 ---
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="320" style="border-radius: 16px; box-shadow: 0 0 12px rgba(0,0,0,0.1); margin-left: 20px;">
 
 ### 🧰 Tools & Technologies
 
