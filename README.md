@@ -16,7 +16,7 @@
 - 🌱 Always learning and exploring new technologies  
 - 📬 Open to collaboration and discussions about tech: [Connect on LinkedIn](https://www.linkedin.com/in/shweta-baviskar-120128295/)  
 ---
-]
+
 ### 🧰 Tools & Technologies
 
 Here’s a snapshot of what I work with:
