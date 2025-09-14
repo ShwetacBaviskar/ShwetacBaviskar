@@ -42,3 +42,23 @@
 
 ---
 
+### 🌟 Quick Facts
+
+- 💡 Always curious about **how things break — and how to fix them**
+- 🎨 I relax by **sketching and reading mystery novels**
+- 🧪 Love to try new tools and experiment with personal projects
+- 🔐 Believer in **ethical hacking for good**
+
+---
+
+### 🏷️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Favorite-Python-blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PhoeniXxCode" />
+</p>
+
+---
+
+<p align="center">🚀 Thanks for visiting! Let's build something great together.</p>
