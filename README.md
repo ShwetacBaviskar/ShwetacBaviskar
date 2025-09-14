@@ -19,8 +19,26 @@
 - 📬 Open to collaboration and discussions about tech: [Connect on LinkedIn](https://www.linkedin.com/in/shweta-baviskar-120128295/)  
 
 ---
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="320" style="border-radius: 16px; box-shadow: 0 0 12px rgba(0,0,0,0.1); margin-left: 20px;">
+ <div align="center" style="overflow:hidden; padding:12px;">
+  <div style="display:inline-block; white-space:nowrap; animation: slide 12s linear infinite;">
+    <img src="YOUR_ANIME_GIF_URL" alt="Anime coder" width="320"
+         style="border-radius:16px; box-shadow:0 0 12px rgba(0,0,0,0.1); margin:0 20px;">
+  </div>
+</div>
 
+<!-- If you use this on a site that allows <style>, include: -->
+<style>
+@keyframes slide {
+  0%   { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+div[style*="animation: slide"]{ /* pause on hover */
+  animation-play-state: running;
+}
+div[style*="animation: slide"]:hover{
+  animation-play-state: paused;
+}
+</style>
 ### 🧰 Tools & Technologies
 
 | Programming | Databases | Dev Tools | Security |
