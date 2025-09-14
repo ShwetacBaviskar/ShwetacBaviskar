@@ -8,13 +8,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me  
 
-- 🎓 Completed**Masters of Computer Science**
-- 🐍 Passionate about **Python** and exploring how systems work under the hood
-- 🌱 Currently learning **backend development**, **SQL**, and **Linux fundamentals**
-- 📬 Always happy to collaborate or chat about tech: [Let's connect on LinkedIn]((https://www.linkedin.com/in/shweta-baviskar-120128295/))
-
+- 🎓 Completed **Master of Science in Computer Science**  
+- 💻 Skilled in **.NET, Python, Java, and SQL**  
+- 📊 Interested in **Data Science, AI, and Machine Learning**  
+- 🌱 Always learning and exploring new technologies  
+- 📬 Open to collaboration and discussions about tech: [Connect on LinkedIn](https://www.linkedin.com/in/shweta-baviskar-120128295/)  
 ---
 ]
 ### 🧰 Tools & Technologies
@@ -25,7 +25,7 @@ Here’s a snapshot of what I work with:
 |-------------|-----------|-----------|----------|
 | Python      | MySQL     | Git       | Kali Linux |
 | Java        | SQLite    | GitHub    | Linux     |
-| C / C++     |           | VS Code   | Wireshark |
+| C #         |           | VS Code   | Wireshark |
 | HTML/CSS    |           | Terminal  | Nmap      |
 
 ---
@@ -62,19 +62,9 @@ Here’s a snapshot of what I work with:
 
 <p align="center">🚀 Thanks for visiting! Let's build something great together.</p>
 
----
 
-### 🙋‍♂️ About Me
 
-Hey there! I'm a passionate tech enthusiast exploring the world of development and innovation. This is where I share my journey, projects, and ideas.
 
-- 🎓 Pursuing/completed ** MASTERS OF COMPUTER SCIENCE**
-- 🧠 Currently learning: **java,sql **
-- 🛠️ Interests: **Software Development, Open Source, Tech Blogging**
-- 💬 I love discussing new ideas and collaborating on creative projects!
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/)  
-
----
 
 ### 💻 Tech Stack
 
