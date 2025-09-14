@@ -19,6 +19,11 @@
 - 📬 Open to collaboration and discussions about tech: [Connect on LinkedIn](https://www.linkedin.com/in/shweta-baviskar-120128295/)  
 
 ---
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/anime-hacker.gif" 
+     alt="Cyberpunk Anime Hacker" 
+     width="320" 
+     style="border-radius: 16px; box-shadow: 0 0 12px rgba(0,0,0,0.2); margin-left: 20px;">
+
 ### 🧰 Tools & Technologies
 
 | Programming | Databases | Dev Tools | Security |
